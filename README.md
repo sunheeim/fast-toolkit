@@ -1,0 +1,2 @@
+# fast-toolkit
+node project
